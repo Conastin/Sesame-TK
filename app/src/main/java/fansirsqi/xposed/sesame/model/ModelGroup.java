@@ -12,6 +12,7 @@ public enum ModelGroup {
     , SPORTS("SPORTS", "运动", "svg/group/sports.svg")
     , MEMBER("MEMBER", "会员", "svg/group/member.svg")
     , ZMXY("ZMXY", "芝麻信用", "svg/group/zmxy.svg")
+    , WEALTH_GOLD("WEALTH_GOLD", "黄金票", "svg/group/wealthGold.svg")
     , OTHER("OTHER", "其他", "svg/group/other.svg")
     ;
     final String code;
